@@ -14,6 +14,8 @@ Desiluit in mundum programmandi a Pythone et multa escritica apps et systemata i
 
 मैं पायथन से प्रोग्रामिंग की दुनिया में कूदा और कई डेस्कटॉप ऐप्स और वेब सिस्टम विकसित किए। मैंने रस्ट का उपयोग करके एक OS विकसित करने का प्रयास किया, लेकिन असफल रहा। [शैक्षणिक क्षमता में सुधार के लिए एक ऐप प्रतियोगिता](https://www-gakuryokuup-com.translate.goog/%E7%AC%AC4%E5%9B%9E%E5%8F%97%E8%B3%9E%E4%BD%9C%E5%93%81?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja#h.ds4kdposi7d5) में प्रोत्साहन पुरस्कार जीता। उसके बाद, मैंने सिंपल और स्टैक जैसी अपनी खुद की प्रोग्रामिंग भाषाएं बनाईं, और वर्तमान में स्टैक प्रोग्रामिंग भाषा के लिए एक समुदाय शुरू करने पर काम कर रहा हूं।
 
+-----
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=KajizukaTaichi)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajizukaTaichi)](https://github.com/anuraghazra/github-readme-stats)
