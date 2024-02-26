@@ -7,10 +7,10 @@ won an encouragement award in [an app contest to improve academic ability](https
 After that, I created my own programming languages such as `Simple` and `Stack`, and am currently working on starting a community for the Stack programming language.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KajizuakTaichi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KajizukaTaichi)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajizuakTaichi)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajizuakTaichi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KajizuakTaichi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajizukaTaichi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajizukaTaichi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KajizukaTaichi)
 
-[![GitHub followers](https://img.shields.io/github/followers/KajizuakTaichi?style=social)](https://github.com/KajizuakTaichi?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/KajizuakTaichi?style=social)](https://github.com/KajizuakTaichi?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/KajizukaTaichi?style=social)](https://github.com/KajizukaTaichi?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/KajizukaTaichi?style=social)](https://github.com/KajizukaTaichi?tab=stars)
