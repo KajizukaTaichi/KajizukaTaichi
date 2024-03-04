@@ -2,7 +2,7 @@
 Pythonからプログラミングの世界に飛び込み、数多くのデスクトップアプリやWebシステムを開発しました。RustでOS開発に挑戦したものの挫折し、[学力向上アプリコンテスト](https://www.gakuryokuup.com/第4回受賞作品#h.ds4kdposi7d5)で奨励賞を取りました。その後は`Simple`や`Stack`などのプログラミング言語を自作して、現在はそのStackプログラミング言語のコミュニティを立ち上げて活動しています。
 
 ## Introduction
-I jumped into the world of programming from Python and developed many desktop apps and web systems. I tried developing an OS using Rust, but failed.
+I jumped into the programming world from Python and developed many desktop apps and web systems. I tried developing an OS using Rust, but failed.
 won an encouragement award in [an app contest to improve academic ability](https://www-gakuryokuup-com.translate.goog/%E7%AC%AC4%E5%9B%9E%E5%8F%97%E8%B3%9E%E4%BD%9C%E5%93%81?_x_tr_sl=auto&_x_tr_tl=ja&_x_tr_hl=ja#h.ds4kdposi7d5). 
 After that, I created my own programming languages such as `Simple` and `Stack`, and am currently working on starting a community for the Stack programming language.
 
