@@ -8,7 +8,7 @@ That advantage is powerful meta-programming features.<br>
 Please use it if you have interest!
 
 I love low layer technology such as developing own programming language.<br>
-Web design is also I love it because design UI/UX will be joy.
+Web developing is also I love it because design UI/UX will be joy.
 
 But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
 Take for example, progress of writing documentation of Stack is slowly pace because it's boring for me.<br>
