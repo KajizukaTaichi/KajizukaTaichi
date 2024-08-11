@@ -7,8 +7,8 @@ My most confidence project is "Stack" that my own stack-oriented script language
 That advantage is powerful meta-programming features.<br>
 Please use it if you have interest!
 
-I love low layer technology such as developing own programming language.
-Web design is also I like because think for users will be joy.
+I love low layer technology such as developing own programming language.<br>
+Web design is also I love it because design UI/UX will be joy.
 
 But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
 Take for example, progress of writing documentation of Stack is slowly pace because it's boring for me.<br>
