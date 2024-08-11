@@ -7,6 +7,9 @@ My most confidence project is "Stack" that my own stack-oriented script language
 That advantage is powerful meta-programming features.<br>
 Please use it if you have interest!
 
+I love low layer technology such as developing own programming language.
+Web design is also I like because think for users will be joy.
+
 But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
 Take for example, progress of writing documentation of Stack is slowly pace because it's boring for me.<br>
 However, I think my passion bet programming is greater than anyone.<br>
@@ -22,11 +25,11 @@ Nice to meet you!
 ### Biography
 
 I jumped into the programming world from Python and developed many desktop apps and web systems. <br>
-I tried developing an OS using Rust, but failed.
+And, I tried developing an OS using Rust, but failed. It mistake expriense provide me grow.
 
-won an encouragement award in [an app contest to improve academic ability](https://www-gakuryokuup-com.translate.goog/past_entries/4th/winners_4th?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en#h.vims7ptiso7w). <br>
-After that, I created my own programming languages such as `Simple` and `Stack` etc, <br>
-and am currently working on starting a community for the Stack programming language.
+Won an encouragement award in [an app contest to improve academic ability](https://www-gakuryokuup-com.translate.goog/past_entries/4th/winners_4th?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en#h.vims7ptiso7w) in history study app. <br>
+After that, I created my own programming languages such as "Simple" and Stack" etc volume, <br>
+and am currently working on spread awesome my Stack technology
 
 -----
 
