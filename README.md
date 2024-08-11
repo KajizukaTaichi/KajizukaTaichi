@@ -15,7 +15,7 @@ Take for example, progress of writing documentation of Stack is slowly pace beca
 However, I think my passion bet programming is greater than anyone.<br>
 
 And, my mottoes are 2 quote "Stay hungry, stay foolish!" and "Human is a thinking reed".<br>
-First one expresses my tomboy style, second one is my love for research.<br>
+First one expresses I prefer challenge, second one is my love for research.<br>
 
 My futures dream is to start up venture and make a innovation.<br>
 I'm studying hard to grant its dream.
