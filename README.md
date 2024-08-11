@@ -7,17 +7,17 @@ My most confidence project is "Stack" that my own stack-oriented script language
 That advantage is powerful meta-programming features.<br>
 Please use it if you have interest!
 
-I love low layer technology such as developing own programming language.<br>
+Generally, I love low layer technology such as developing own programming language.<br>
 Web developing is also I love it because design UI/UX will be joy.
 
 But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
 Take for example, progress of writing documentation of Stack is slowly pace because it's boring for me.<br>
 However, I think my passion bet programming is greater than anyone.<br>
 
-And, my mottoes are 2 quote "Stay hungry, stay foolish!" and "Human is a thinking reed".<br>
+And, my mottos are 2 quote "Stay hungry, stay foolish!" and "Human is a thinking reed".<br>
 First one expresses I prefer challenge, second one is my love for research.<br>
 
-My futures dream is to start up venture and make a innovation.<br>
+My futures dream is to start up venture bissiness and make a innovation.<br>
 I'm studying hard to grant its dream.
 
 Nice to meet you! 
