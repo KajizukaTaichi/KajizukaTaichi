@@ -8,7 +8,7 @@ That advantage is powerful meta-programming features.<br>
 Please use it if you have interest!
 
 But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
-Take for example, progress of writing documentation of Stack is slowly pace.<br>
+Take for example, progress of writing documentation of Stack is slowly pace because it boring for me.<br>
 But, I think my passion bet programming is greater than anyone.<br>
 
 And, my mottoes are 2 quote "Stay hungry, stay foolish!" and "Human is a thinking reed".<br>
@@ -23,6 +23,7 @@ Nice to meet you!
 
 I jumped into the programming world from Python and developed many desktop apps and web systems. <br>
 I tried developing an OS using Rust, but failed.
+
 won an encouragement award in [an app contest to improve academic ability](https://www-gakuryokuup-com.translate.goog/past_entries/4th/winners_4th?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en#h.vims7ptiso7w). <br>
 After that, I created my own programming languages such as `Simple` and `Stack` etc, <br>
 and am currently working on starting a community for the Stack programming language.
