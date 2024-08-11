@@ -8,8 +8,8 @@ That advantage is powerful meta-programming features.<br>
 Please use it if you have interest!
 
 But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
-Take for example, progress of writing documentation of Stack is slowly pace because it boring for me.<br>
-But, I think my passion bet programming is greater than anyone.<br>
+Take for example, progress of writing documentation of Stack is slowly pace because it's boring for me.<br>
+However, I think my passion bet programming is greater than anyone.<br>
 
 And, my mottoes are 2 quote "Stay hungry, stay foolish!" and "Human is a thinking reed".<br>
 first one expresses my tomboy style, second one is my love to thinking.<br>
