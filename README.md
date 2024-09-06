@@ -3,8 +3,8 @@
 Hello everyone, I'm Kajizuka Taichi.<br>
 It called me genius programmer.
 
-My most confidence project is "Stack" that my own stack-oriented script language.<br>
-That advantage is powerful meta-programming features.<br>
+My most confidence project is "Pravda" that my own functional programming language.<br>
+That feature is best of both worlds between Haskell and Lisp.<br>
 Please use it if you have interest!
 
 Generally, I love low layer technology such as developing own programming language.<br>
@@ -28,8 +28,8 @@ I jumped into the programming world from Python and developed many desktop apps 
 And, I tried developing an OS using Rust, but failed. It mistake expriense provide me grow.
 
 Won an encouragement award in [an app contest to improve academic ability](https://www-gakuryokuup-com.translate.goog/past_entries/4th/winners_4th?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en#h.vims7ptiso7w) in history study app. <br>
-After that, I created my own programming languages such as "Simple" and Stack" etc volume, <br>
-and am currently working on spread awesome my Stack technology
+After that, I created my own programming languages such as "Stack" and Pravda" etc volume, <br>
+and am currently working on spread awesome my Pravda technology
 
 -----
 
