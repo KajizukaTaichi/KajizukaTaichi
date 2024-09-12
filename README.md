@@ -10,16 +10,6 @@ Please use it if you have interest!
 Generally, I love low layer technology such as developing own programming language.<br>
 Web developing is also I love it because design UI/UX will be joy.
 
-But, I'm bad at persevering because I'm tomboy who do thing I want only.<br>
-Take for example, progress of writing documentation of Stack is slowly pace because it's boring for me.<br>
-However, I think my passion bet programming is greater than anyone.<br>
-
-And, my mottos are 2 quote "Stay hungry, stay foolish!" and "Human is a thinking reed".<br>
-First one expresses I prefer challenge, second one is my love for research.<br>
-
-My futures dream is to start up venture bissiness and make a innovation.<br>
-I'm studying hard to grant its dream.
-
 Nice to meet you! 
 
 ### Biography
@@ -34,9 +24,7 @@ and am currently working on spread awesome my Pravda technology
 -----
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KajizukaTaichi)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajizukaTaichi)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajizukaTaichi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KajizukaTaichi)
-
 [![GitHub followers](https://img.shields.io/github/followers/KajizukaTaichi?style=social)](https://github.com/KajizukaTaichi?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/KajizukaTaichi?style=social)](https://github.com/KajizukaTaichi?tab=stars)
